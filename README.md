@@ -31,32 +31,6 @@ The project includes:
 
 ---
 
-## Workflow
-
-Input City Name
-
-↓
-
-API Request
-
-↓
-
-OpenWeatherMap Server
-
-↓
-
-JSON Response
-
-↓
-
-Data Extraction
-
-↓
-
-Weather Visualization
-
----
-
 ## Features
 
 * Real-Time Weather Updates
