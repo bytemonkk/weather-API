@@ -2,9 +2,6 @@
 
 A simple weather forecasting application built using Python, Streamlit, and the OpenWeatherMap API. The project demonstrates API integration, JSON response handling, and real-time weather retrieval using both command-line and web-based interfaces.
 
-<p align="center">
-  <img src="assets/interface.png" width="100%">
-</p>
 
 <h1 align="center">Weather API Application</h1>
 
@@ -104,6 +101,11 @@ cd weather-api-app
 
 pip install -r requirements.txt
 ```
+---
+
+<p align="center">
+  <img src="assets/web_interface.png" width="100%">
+</p>
 
 ---
 
