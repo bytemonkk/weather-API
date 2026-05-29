@@ -60,7 +60,6 @@ weather-api-app/
 ├── requirements.txt
 ├── setup.py
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
